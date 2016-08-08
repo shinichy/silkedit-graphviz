@@ -1,0 +1,6 @@
+menu:
+  - id: packages
+    menu:
+      - title: 'Graphviz Preview'
+        id: preview
+        command: graphviz.preview
